@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichBond;
 - 👀 I’m interested in CS, Algorithms, Data Structures, Data Since, C#, Unity, BluePrints, UE5, JS, Docker;
-- 🌱 I’m currently learning C#, Unity;
+- 🌱 I’m imressed with C#, Unity;
 - 💞️ I’m looking to collaborate on AR\VR\XR, GameDev, Web 3.0;
 - 📫 How to reach me michael.bondarenko0109@gmail.com;
 
